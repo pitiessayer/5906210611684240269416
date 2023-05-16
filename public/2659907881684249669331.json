@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536256448956",
+    "project_id": "mod-master-skins-maps-94730",
+    "storage_bucket": "mod-master-skins-maps-94730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536256448956:android:de27896a4b2a5295ae03b9",
+        "android_client_info": {
+          "package_name": "com.skincraft.minimap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536256448956-09j3s0vh5bsr6g821ddg4t83ed8i2fql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5xWj2giF-5pKgsNmkgjm7Wiam_eEtAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536256448956-09j3s0vh5bsr6g821ddg4t83ed8i2fql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
